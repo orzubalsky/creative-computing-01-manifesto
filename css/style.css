@@ -10,7 +10,7 @@ body {
 	font-size: 24px;
 	font-weight: bold;
 	color: lightsalmon;
-	text-transform: none;
+	text-transform: lowercase;
 	background-color: honeydew
 }
 
