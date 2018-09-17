@@ -2,3 +2,15 @@
     box-sizing: border-box;
 }
 
+h1 {
+	color: red;
+}
+
+p {
+	font-size: 20px;
+}
+
+.intro {
+	font-weight: bold;
+	color: green;
+}
