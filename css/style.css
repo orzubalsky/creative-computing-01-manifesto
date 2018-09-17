@@ -5,9 +5,12 @@
 p
 {
 	font-size: 25px;
-	max-width: 300px;
+	max-width: 20 px;
 	line-height: 1.5;
-	margin: 1.5px;
+	margin: 2px;
+	background-color: #FFA07A
+	font-family: 'Arvo', serif;
+	color: #DAF7A6;
 
 
 }
