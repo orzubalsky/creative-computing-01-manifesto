@@ -4,7 +4,7 @@
 
 
 .header {
-	font-size: 35px;
+	font-size: 45px;
 	text-align: center;
 	font-family: 'Fjalla One', sans-serif;
 	font-weight: bold;
@@ -13,7 +13,6 @@
 
 .manifesto{
 	font-size: 25px;
-	max-width: 600px;
 	line-height: 1.5;
 	margin: 2px;
 	font-family: 'Arvo', serif;
@@ -35,5 +34,7 @@ a{
 }
 
 .credit{
+	font-family: 'Arvo', serif;
+	color: #C70039;
 
 }
