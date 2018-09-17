@@ -8,10 +8,13 @@ p
 	max-width: 20 px;
 	line-height: 1.5;
 	margin: 2px;
-	background-color: #FFA07A;
 	font-family: 'Arvo', serif;
 	color: #DAF7A6;
 
 
 }
 
+body
+{
+	background-color: #FFA07A;
+}
