@@ -8,10 +8,9 @@
 	text-align: center;
 }
 
-p
-{
+.manifesto{
 	font-size: 25px;
-	max-width: 300px;
+	max-width: 600px;
 	line-height: 1.5;
 	margin: 2px;
 	font-family: 'Arvo', serif;
