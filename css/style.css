@@ -6,6 +6,9 @@
 .header {
 	font-size: 35px;
 	text-align: center;
+	font-family: 'Arvo', serif;
+	font-weight: bold;
+	color: #C70039;
 }
 
 .manifesto{
@@ -22,4 +25,10 @@
 body
 {
 	background-color: #E0FFFF;
+}
+
+.link{
+	color: #C70039;
+	font-size: 25px;
+	font-family: 'Arvo', serif;
 }
