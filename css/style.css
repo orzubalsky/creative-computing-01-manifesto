@@ -11,16 +11,6 @@
 	color: #C70039;
 }
 
-.manifesto{
-	font-size: 25px;
-	line-height: 1.5;
-	margin: 20px;
-	font-family: 'Arvo', serif;
-	color: #C70039;
-	text-align: center;
-
-
-}
 
 body
 {
@@ -31,6 +21,18 @@ a{
 	color: #C70039;
 	font-size: 25px;
 	font-family: 'Fjalla One', sans-serif;
+}
+
+
+.manifesto{
+	font-size: 25px;
+	line-height: 1.5;
+	margin: 20px;
+	font-family: 'Arvo', serif;
+	color: #C70039;
+	text-align: center;
+
+
 }
 
 .credit{
