@@ -6,7 +6,7 @@
 .header {
 	font-size: 35px;
 	text-align: center;
-	font-family: 'Arvo', serif;
+	font-family: 'Fjalla One', sans-serif;
 	font-weight: bold;
 	color: #C70039;
 }
@@ -31,4 +31,8 @@ body
 	color: #C70039;
 	font-size: 25px;
 	font-family: 'Arvo', serif;
+}
+
+.credit{
+	
 }
