@@ -15,12 +15,13 @@ body {
 h1 {
 	font-family: "Bowlby One SC", cursive;
 	color: blue;
+	text-align: center;
 }
 h2 {
 	font-family: "Permanent Marker", cursive;
 	text-align: center;
 	margin-bottom: 40px;
-	color: lightblue;
+	color: teal;
 }
 
 h3 {
