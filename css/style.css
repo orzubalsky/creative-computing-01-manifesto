@@ -2,3 +2,36 @@
     box-sizing: border-box;
 }
 
+* {
+  width: 400px;
+  margin: auto; 
+}
+
+body {
+	font-family: "helvetica";
+	font-weight: lighter;
+
+}
+h1 {
+	font-family: "Bowlby One SC", cursive;
+	color: blue;
+}
+h2 {
+	font-family: "Permanent Marker", cursive;
+	text-align: center;
+	margin-bottom: 40px;
+	color: lightblue;
+}
+
+h3 {
+	font-size: 18px;
+	margin-bottom: 50px;
+	text-align: center;
+	color: blue;
+}
+
+.content {
+	font-size: 18px;
+	margin-bottom: 50px;
+	text-align: center;
+}
