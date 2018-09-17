@@ -18,6 +18,7 @@
 	margin: 2px;
 	font-family: 'Arvo', serif;
 	color: #C70039;
+	text-align: center;
 
 
 }
@@ -27,12 +28,12 @@ body
 	background-color: #E0FFFF;
 }
 
-.link{
+a{
 	color: #C70039;
 	font-size: 25px;
 	font-family: 'Arvo', serif;
 }
 
 .credit{
-	
+
 }
