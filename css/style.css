@@ -2,10 +2,16 @@
     box-sizing: border-box;
 }
 
+
+#header {
+	font-size: 35px;
+	text-align: center;
+}
+
 p
 {
 	font-size: 25px;
-	max-width: 20 px;
+	max-width: 10px;
 	line-height: 1.5;
 	margin: 2px;
 	font-family: 'Arvo', serif;
