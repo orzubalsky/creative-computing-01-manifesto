@@ -22,7 +22,6 @@ a{
 	color: #C70039;
 	font-size: 25px;
 	font-family:'Arvo', serif;
-	text-align: center;
 
 }
 
@@ -33,7 +32,7 @@ a{
 	margin: 50px;
 	font-family: "Arvo", serif;
 	color: #C70039;
-	text-align: center;
+
 
 
 }
@@ -59,7 +58,7 @@ a{
 
 .links a{
 	font-size: 15px;
-	line-height: 1.5;
+	
 	font-family: 'Fjalla One', sans-serif;
 	color: #C70039;
 	margin: 25px;
