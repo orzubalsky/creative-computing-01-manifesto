@@ -2,6 +2,21 @@
     box-sizing: border-box;
 }
 
-h2 {
-	font-size: 12px;
+
+h1 {
+	font-size: 44px;
+	font-family: 'Poiret One', cursive;
 }
+
+h2 {
+	font-size: 20px;
+	font-weight: normal;
+
+}
+
+p {
+	font-family: 'Playfair Display', serif;
+	font size: 16px; 
+	word-spacing: 1.5px;
+}
+
