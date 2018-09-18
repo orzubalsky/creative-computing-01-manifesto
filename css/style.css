@@ -5,14 +5,15 @@
 
 h1 {
 	font-family: 'Cinzel', serif;
+	font-weight: 400pt;
 	font-kerning: 30pt;
 	font-size: 50pt;
 
 }
 
 h2 {
-	font-family: 'Heebo', sans-serif;
-	font-weight: 100pt;
+	font-family: 'Cinzel', serif;
+	font-weight: 400pt;
 	font-size: 25pt;
 }
 
