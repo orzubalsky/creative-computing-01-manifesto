@@ -75,7 +75,16 @@ h7{
 h8{
 	font-family: 'VT323', monospace;
 	color: Sienna;
-	margin-left: 790px;
+	margin-left: 760px;
+	
+	font-weight: light;
+    font-size: 25PX;
+
+}
+footer{
+	font-family: 'VT323', monospace;
+	color: Sienna;
+	margin-left: 760px;
 	
 	font-weight: light;
     font-size: 25PX;
