@@ -19,6 +19,7 @@ body h2 {
 body p {
 	color: #6699cc;
 	font-family: 'Heebo', sans-serif;
+	font-size: 18pt;
 	font-weight: 100;
 	text-align: center;
 }
@@ -30,21 +31,19 @@ a {
 
 footer {
 	font-family: 'Heebo', sans-serif;
+	font-size: 16pt;
 	font-weight: 100;
 	line-height: .5;
+	text-align: left;
 }
 
 .href {
 	color: blue;
 	font-family: 'Heebo', sans-serif;
 	font-size: 16pt;
-	font-weight: 100;
-	
-	
+	font-weight: 100;	
 }
 
 footer p {
-	text-align: left;
-	font-size: 16pt;
+	font-size: 14pt;
 }
-
