@@ -84,13 +84,22 @@ h8{
 footer{
 	font-family: 'VT323', monospace;
 	color: Sienna;
-	margin-left: 760px;
+	margin-left: 900px;
+	margin-top: 150px;
 	
 	font-weight: light;
     font-size: 25PX;
 
 }
+h9{
+	font-family: 'VT323', monospace;
+	color: IndianRed;
+	margin-left: 80px;
+	
+	font-weight: light;
+    font-size: 30PX;
 
+}
 
 
 
