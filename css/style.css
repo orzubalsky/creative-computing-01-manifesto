@@ -8,7 +8,7 @@ h1{
 	
 	font-family: 'VT323', monospace;
 	color: FireBrick;
-	margin-left: 420px;
+	margin-left: 480px;
 	margin-top: 20PX;
 	font-weight: light;
     font-size: 45PX;
@@ -18,7 +18,7 @@ h2{
 	margin-top: 15;
 	font-family: 'VT323', monospace;
 	color: IndianRed;
-	margin-left: 50px;
+	margin-left: 80px;
 	
 	font-weight: light;
     font-size: 30PX;
@@ -28,7 +28,7 @@ h2{
 h3{
 	font-family: 'VT323', monospace;
 	color: IndianRed;
-	margin-left: 50px;
+	margin-left: 80px;
 	font-weight: light;
     font-size: 30PX;
 
@@ -37,7 +37,7 @@ h3{
 h4{
 	font-family: 'VT323', monospace;
 	color: IndianRed;
-	margin-left: 50px;
+	margin-left: 80px;
 	
 	font-weight: light;
     font-size: 30PX;
@@ -47,7 +47,7 @@ h4{
 h5{
 	font-family: 'VT323', monospace;
 	color: IndianRed;
-	margin-left: 50px;
+	margin-left: 80px;
 	margin-top: 20PX;
 	font-weight: light;
     font-size: 30PX;
@@ -56,7 +56,7 @@ h5{
 h6{
 	font-family: 'VT323', monospace;
 	color: IndianRed;
-	margin-left: 50px;
+	margin-left: 80px;
 	
 	font-weight: light;
     font-size: 30PX;
@@ -66,7 +66,7 @@ h6{
 h7{
 	font-family: 'VT323', monospace;
 	color: IndianRed;
-	margin-left: 50px;
+	margin-left: 80px;
 	
 	font-weight: light;
     font-size: 30PX;
@@ -75,10 +75,10 @@ h7{
 h8{
 	font-family: 'VT323', monospace;
 	color: Sienna;
-	margin-left: 500px;
+	margin-left: 790px;
 	
 	font-weight: light;
-    font-size: 30PX;
+    font-size: 25PX;
 
 }
 
