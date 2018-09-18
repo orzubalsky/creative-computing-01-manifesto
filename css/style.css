@@ -28,7 +28,7 @@ a{
 	font-size: 25px;
 	line-height: 1.5;
 	margin: 20px;
-	font-family: 'Arvo', serif;
+	font-family: "Arvo", serif;
 	color: #C70039;
 	text-align: center;
 
@@ -54,11 +54,11 @@ a{
 	text-align: center;
 }
 
-.email {
+.email{
 	font-size: 25px;
 	line-height: 1.5;
 	margin: 20px;
-	font-family: 'Arvo', serif;
+	font-family: "Arvo", serif;
 	color: #C70039;
 }
 
