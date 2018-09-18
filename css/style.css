@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+.body {
+	max-width: 800px;
+	font size: 20px;
+	line-height: 34px;
+	font-weight: normal;
+	font-family: 'Arvo',serif;
+	text-align: center;
+	color: darksalmon;
+	background-color: papayawhip;
+}
+
+.h1 {
+font-family: 'Arvo',serif;
+text-transform: uppercase;
+color: lightsalmon;
+font-weight: bold;
+margin-bottom: 60px;
+text-align: center;
+}
+
+.h2 {
+font-family: 'Arvo', serif;
+font-size: 24px;
+font-weight: bold;
+margin-bottom: 45px;
+color: salmon;
+text-align: center;
+}
+
+.h3 {
+font-size: 22px;
+font-weight: bold;
+font-family: 'Arvo',serif;
+color: salmon;
+text-align: center;
+}
+
+.footer {
+font-weight: bold;
+font-family: 'Arvo',serif;
+color: darksalmon;
+text-align: center;
+
+}
