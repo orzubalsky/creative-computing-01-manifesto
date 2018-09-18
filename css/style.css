@@ -20,7 +20,7 @@ body p {
 	font-family: 'Heebo', sans-serif;
 	font-size: 18pt;
 	font-weight: 100;
-	margin-right: 100px;
+	margin-right: 300px;
 	text-align: center;
 }
 
@@ -34,7 +34,7 @@ footer {
 	font-size: 16pt;
 	font-weight: 100;
 	line-height: .5;
-	text-align: left;
+	text-align: right;
 }
 
 .href {
