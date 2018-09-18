@@ -12,14 +12,12 @@ body h1 {
 	font-kerning: 30pt;
 	font-size: 50pt;
 	line-height: 1;
-
 }
 
 body h2 {
 	font-family: 'Cinzel', serif;
 	font-weight: 400;
-	font-size: 25pt;
-
+	font-size: 30pt;
 }
 
 body p {
@@ -28,18 +26,17 @@ body p {
 	font-size: 16pt;
 	color: #6699cc;
 	text-align: center;
-
 }
 
 a {
 	text-transform: uppercase;
 }
 
+
 footer {
 	font-family: 'Heebo', sans-serif;
 	font-weight: 100;
 	text-align: right;
-
 }
 
 footer.href {
@@ -50,6 +47,6 @@ footer.href {
 }
 
 footer p {
-	text-align: right;
+	text-align: normal;
 }
 
