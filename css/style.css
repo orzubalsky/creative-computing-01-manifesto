@@ -1,16 +1,12 @@
-* {
-    box-sizing: border-box;
-}
-
 body {
 	max-width: 1000px;
 }
 
 body h1 {
 	font-family: 'Cinzel', serif;
-	font-weight: 400;
-	font-kerning: 30pt;
+	font-kerning: auto;
 	font-size: 50pt;
+	font-weight: 400;
 	line-height: 1;
 }
 
@@ -21,10 +17,9 @@ body h2 {
 }
 
 body p {
+	color: #6699cc;
 	font-family: 'Heebo', sans-serif;
 	font-weight: 100;
-	font-size: 16pt;
-	color: #6699cc;
 	text-align: center;
 }
 
@@ -36,14 +31,16 @@ a {
 footer {
 	font-family: 'Heebo', sans-serif;
 	font-weight: 100;
-	line-height: 1;
+	line-height: .5;
 }
 
-footer.href {
-	font-family: 'Heebo', sans-serif;
-	font-weight: 100;
-	font-size: 16pt;
+.href {
 	color: blue;
+	font-family: 'Heebo', sans-serif;
+	font-size: 16pt;
+	font-weight: 100;
+	
+	
 }
 
 footer p {
