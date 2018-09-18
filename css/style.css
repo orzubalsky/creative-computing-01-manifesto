@@ -3,16 +3,40 @@
 }
 
 
-body.manifesto{
+body.manifesto {
 	font-family: 'Heebo', sans-serif;
-	font-weight: 300pt;
+	font-weight: 100pt;
+
+}
+
+body.h1 {
+	font-kerning: 30pt;
+	font-size: 50pt;
+
+}
+
+body.h2 {
+	font-size: 25pt;
+}
+
+body.p {
 	font-size: 20pt;
 	color: #6699cc;
 
 }
 
+
 footer {
 	font-family: 'Heebo', sans-serif;
 	font-weight: 100pt;
+
+}
+
+footer.a {
+	font-size: 16pt;
+	color: darkgray;
+}
+
+footer.p {
 	font-size: 16pt;
 }
