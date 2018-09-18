@@ -2,12 +2,11 @@
     box-sizing: border-box;
 }
 
-<link href="https://fonts.googleapis.com/css?family=Heebo" rel="stylesheet">
-*
+
 body {
 	font-family: 'Heebo', sans-serif;
 	font-weight: 300pt;
-	font-size: 16pt;
+	font-size: 20pt;
 	color: #6699cc;
 
 }
@@ -15,5 +14,5 @@ body {
 footer {
 	font-family: 'Heebo', sans-serif;
 	font-weight: 100pt;
-	font-size: 13pt;
+	font-size: 16pt;
 }
