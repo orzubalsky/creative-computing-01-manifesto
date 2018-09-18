@@ -3,20 +3,20 @@
 }
 
 
-body.h1 {
+h1 {
 	font-family: 'Cinzel', serif;
 	font-kerning: 30pt;
 	font-size: 50pt;
 
 }
 
-body.h2 {
+h2 {
 	font-family: 'Heebo', sans-serif;
 	font-weight: 100pt;
 	font-size: 25pt;
 }
 
-body.p {
+p {
 	font-family: 'Heebo', sans-serif;
 	font-weight: 100pt;
 	font-size: 20pt;
