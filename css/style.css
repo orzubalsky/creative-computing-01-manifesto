@@ -2,3 +2,29 @@
     box-sizing: border-box;
 }
 
+body {
+	max-width: 1000px;
+	line-height: 34px;
+	font-family: 'Raleway', sans-serif;
+	font-family: 'Nunito', sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: orange;
+	text-transform: none;
+	background-color: honeydew
+}
+
+p.second {
+	color: yellow;
+	background-color:mediumseagreen;
+}
+
+h3,
+h2 {
+	color: red;
+}
+
+footer {
+	color: orange
+	text-transform: bold;
+}
