@@ -11,10 +11,11 @@ h1{
 	margin-left: 480px;
 	margin-top: 20PX;
 	font-weight: light;
-    font-size: 45PX;
+    font-size: 80PX;
 }
 
 h2{
+	text-align: justify;
 	margin-top: 15;
 	font-family: 'VT323', monospace;
 	color: IndianRed;
