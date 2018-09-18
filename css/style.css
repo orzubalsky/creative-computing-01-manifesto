@@ -19,6 +19,7 @@ h1{
 	position: relative;
 	left: 300px;
 	color: red;
+	text-shadow: 2px 5px black;
 }
 
 h2{
