@@ -11,7 +11,7 @@ body h1 {
 	font-weight: 400;
 	font-kerning: 30pt;
 	font-size: 50pt;
-	line-height: .5;
+	line-height: 1;
 
 }
 
@@ -19,7 +19,7 @@ body h2 {
 	font-family: 'Cinzel', serif;
 	font-weight: 400;
 	font-size: 25pt;
-	line-height: .5;
+	line-height: 1;
 }
 
 body p {
