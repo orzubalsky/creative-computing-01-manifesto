@@ -2,15 +2,34 @@
     box-sizing: border-box;
 }
 
-h1 {
-	color: red;
-}
 
-p {
-	font-size: 20px;
+.title { 
+	font-size: 70px;
+	font-weight: bold;
+	font-family: 'Merriweather', serif;
+	color: #778899;
 }
 
 .intro {
-	font-weight: bold;
-	color: green;
+	font-size: 20px;
+	color: #F5DEB3;
+	font-family: 'Merriweather', serif;
+	font-weight: bold;;
 }
+
+.mine {color: #FFC0CB;
+font-family: 'Quicksand', sans-serif;
+font-size: 30px;
+max-width: 30ch}
+
+.modern {color: #FFC0CB;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 30px;
+	max-width: 30ch;
+
+}
+
+.display { font-family: 'Quicksand', sans-serif;
+	font-size: 30px;
+	max-width: 30ch; 
+	color: #FFC0CB;}
