@@ -54,6 +54,14 @@ a{
 	text-align: center;
 }
 
+.email {
+	font-size: 25px;
+	line-height: 1.5;
+	margin: 20px;
+	font-family: 'Arvo', serif;
+	color: #C70039;
+}
+
 
 
 
