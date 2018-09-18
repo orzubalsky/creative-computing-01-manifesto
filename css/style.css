@@ -2,3 +2,46 @@
     box-sizing: border-box;
 }
 
+
+body {
+	font-family: "helvetica";
+	font-weight: lighter;
+	width: 400px;
+  	margin: auto;
+
+}
+h1 {
+	font-family: "Bowlby One SC", cursive;
+	color: blue;
+	text-align: center;
+}
+h2 {
+	font-family: "Permanent Marker", cursive;
+	text-align: center;
+	margin-bottom: 40px;
+	color: teal;
+}
+
+h3 {
+	font-size: 18px;
+	margin-bottom: 50px;
+	text-align: center;
+	color: blue;
+	width: 400px;
+ 	margin: auto; 
+}
+
+footer {
+	font-size: 16px;
+	margin-bottom: 50px;
+	text-align: left;
+	width: 400px;
+ 	margin: auto; 
+}
+
+.content {
+	font-size: 18px;
+	margin-bottom: 50px;
+	text-align: left;
+	width: 450px;
+}
