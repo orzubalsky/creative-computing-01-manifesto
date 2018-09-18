@@ -24,6 +24,7 @@ h2 {
 	color: red;
 }
 
-footer.footer {
+footer {
 	color: orange
+	text-transform: bold;
 }
