@@ -2,3 +2,25 @@
     box-sizing: border-box;
 }
 
+
+h1 {
+	font-size: 30px;
+	font-weight: bolder;
+	background-color: purple;
+
+}
+
+
+}
+
+
+p {
+   align-content: left;
+   font-family: 'Raleway', sans-serif;
+   margin-bottom: 100px;
+   word-spacing: 15px;
+   font-weight: normal;
+   font-size: 24px;
+   color: black;
+
+}
