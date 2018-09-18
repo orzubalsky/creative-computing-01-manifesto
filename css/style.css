@@ -38,6 +38,7 @@ a {
 footer {
 	font-family: 'Heebo', sans-serif;
 	font-weight: 100;
+	text-align: right;
 
 }
 
@@ -48,8 +49,4 @@ footer.href {
 	color: darkgray;
 }
 
-footer p {
-
-
-}
 
