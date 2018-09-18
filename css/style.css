@@ -7,7 +7,7 @@
 h1{
 	
 	font-family: 'VT323', monospace;
-	color: IndianRed;
+	color: FireBrick;
 	margin-left: 420px;
 	margin-top: 20PX;
 	font-weight: light;
@@ -15,12 +15,23 @@ h1{
 }
 
 h2{
+	margin-top: 15;
 	font-family: 'VT323', monospace;
-	color: FireBrick;
-	margin-left: 10px;
+	color: IndianRed;
+	margin-left: 50px;
 	margin-top: 20PX;
 	font-weight: light;
-    font-size: 20PX;
+    font-size: 30PX;
+
+}
+
+h3{
+	font-family: 'VT323', monospace;
+	color: IndianRed;
+	margin-left: 50px;
+	margin-top: 20PX;
+	font-weight: light;
+    font-size: 30PX;
 
 }
 
