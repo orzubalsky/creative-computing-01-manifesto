@@ -2,3 +2,16 @@
     box-sizing: border-box;
 }
 
+body {
+	font-family: 'Heebo', sans-serif;
+	font-weight: 100pt;
+	font-size: 16pt;
+	font-color: cyan;
+
+}
+
+footer {
+	font-family: 'Heebo', sans-serif;
+	font-weight: 100pt;
+	font-size: 13pt;
+}
