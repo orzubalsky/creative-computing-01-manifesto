@@ -3,12 +3,13 @@
 }
 
 
-.header {
+.header{
 	font-size: 45px;
 	text-align: center;
 	font-family: 'Fjalla One', sans-serif;
 	font-weight: bold;
 	color: #C70039;
+
 }
 
 
@@ -20,14 +21,16 @@ body
 a{
 	color: #C70039;
 	font-size: 25px;
-	font-family: "Arvo", serif;
+	font-family:'Arvo', serif;
+	text-align: center;
+
 }
 
 
 .manifesto{
 	font-size: 25px;
 	line-height: 1.5;
-	margin: 20px;
+	margin: 50px;
 	font-family: "Arvo", serif;
 	color: #C70039;
 	text-align: center;
@@ -54,12 +57,14 @@ a{
 	text-align: center;
 }
 
-.email{
-	font-size: 25px;
+.links a{
+	font-size: 15px;
 	line-height: 1.5;
-	margin: 20px;
-	font-family: "Arvo", serif;
+	font-family: 'Fjalla One', sans-serif;
 	color: #C70039;
+	margin: 25px;
+
+
 }
 
 
