@@ -2,10 +2,13 @@
     box-sizing: border-box;
 }
 
+body {
+	max-width: 1000px;
+}
 
 h1 {
 	font-family: 'Cinzel', serif;
-	font-weight: 400pt;
+	font-weight: 400;
 	font-kerning: 30pt;
 	font-size: 50pt;
 
@@ -13,26 +16,32 @@ h1 {
 
 h2 {
 	font-family: 'Cinzel', serif;
-	font-weight: 400pt;
+	font-weight: 400;
 	font-size: 25pt;
 }
 
 p {
 	font-family: 'Heebo', sans-serif;
-	font-weight: 100pt;
+	font-weight: 100;
 	font-size: 16pt;
 	color: #6699cc;
+	text-align: center;
 
 }
 
+a {
+	text-transform: uppercase;
+}
 
 footer {
 	font-family: 'Heebo', sans-serif;
-	font-weight: 100pt;
+	font-weight: 100;
 
 }
 
 footer.href {
+	font-family: 'Heebo', sans-serif;
+	font-weight: 100;
 	font-size: 16pt;
 	color: darkgray;
 }
