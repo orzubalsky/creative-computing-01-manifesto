@@ -10,6 +10,7 @@ body.manifesto {
 }
 
 body.h1 {
+	font-family: 'Cinzel', serif;
 	font-kerning: 30pt;
 	font-size: 50pt;
 
