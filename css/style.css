@@ -1,4 +1,14 @@
 * {
     box-sizing: border-box;
+    background-color: SandyBrown
+
+}
+
+h1{
+	font-family: 'Cinzel', serif;
+	font-family: 'Indie Flower', cursive;
+	color: IndianRed;
+	margin-left: 400px;
+	font-weight: light;
 }
 
