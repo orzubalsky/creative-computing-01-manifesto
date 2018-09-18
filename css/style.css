@@ -9,14 +9,14 @@ body {
 	font-family: 'Nunito', sans-serif;
 	font-size: 24px;
 	font-weight: bold;
-	color: lightsalmon;
+	color: orange;
 	text-transform: none;
 	background-color: honeydew
 }
 
 p.second {
-	color: salmon;
-	background-color:;
+	color: yellow;
+	background-color:mediumseagreen;
 }
 
 h3,
