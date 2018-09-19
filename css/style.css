@@ -1,4 +1,90 @@
 * {
     box-sizing: border-box;
+    background-color: SandyBrown
+
 }
+
+h1{
+	
+	font-family: 'VT323', monospace;
+	color: FireBrick;
+	margin-left: 480px;
+	margin-top: 20PX;
+	font-weight: light;
+    font-size: 80PX;
+}
+
+
+
+.list{font-size: 40px;
+	color: IndianRed;
+	margin-left: 80px;
+	
+	font-weight: light;
+
+
+
+
+}
+
+h7{
+	font-family: 'VT323', monospace;
+	color: IndianRed;
+	margin-left: 80px;
+	
+	font-weight: light;
+    font-size: 30PX;
+
+}
+h8{
+	font-family: 'VT323', monospace;
+	color: Sienna;
+	margin-left: 760px;
+	
+	font-weight: light;
+    font-size: 25PX;
+
+}
+footer{
+	font-family: 'VT323', monospace;
+	color: Sienna;
+	margin-left: 900px;
+	margin-top: 150px;
+	
+	font-weight: light;
+    font-size: 25PX;
+
+}
+h9{
+	font-family: 'VT323', monospace;
+	color: IndianRed;
+	margin-left: 80px;
+	
+	font-weight: light;
+    font-size: 30PX;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
