@@ -1,9 +1,25 @@
 * {
 	box-sizing: border-box;
 	background-color: white;
+	font-family: "georgia";
 }
 
 body {
 	width: 600px;
-	font-family: "georgia";
+	
+}
+
+h1{
+	text-align:center;
+	
+}
+
+h2{
+	text-align:center;
+	
+}
+
+footer{
+	text-align:center;
+	
 }
