@@ -2,24 +2,26 @@
 	box-sizing: border-box;
 	background-color: white;
 	font-family: "georgia";
+	text-align: center;
+	width: 800px;
 }
 
 body {
-	width: 600px;
+	
 	
 }
 
 h1{
-	text-align:center;
+
 	
 }
 
 h2{
-	text-align:center;
+
 	
 }
 
 footer{
-	text-align:center;
+
 	
 }
