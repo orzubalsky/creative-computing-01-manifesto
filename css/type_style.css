@@ -11,14 +11,17 @@
 
 body{
 	color: darkorchid;
+	font-size: 30px;
 }
 
 h1{
 	font-weight: normal;
+	font-size: 48px;
 	color: rebeccapurple;
 }
 
 h2{
 	font-weight: normal;
+	font-size: 36px;
 	color: rebeccapurple;
 }
