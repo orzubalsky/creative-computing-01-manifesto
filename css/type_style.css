@@ -1,11 +1,15 @@
 * {
 	background-color: white;
 	font-family: "georgia";
+	margin: auto;
+}
+
+.footer{
+	color: rebeccapurple;
 }
 
 body{
 	color: darkorchid;
-	margin:auto;
 }
 
 h1{
