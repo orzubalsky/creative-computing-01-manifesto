@@ -1,4 +1,5 @@
 * {
+	box-sizing: border-box;
 	background-color: white;
 	font-family: "georgia";
 	margin: auto;
