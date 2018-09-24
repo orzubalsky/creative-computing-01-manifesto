@@ -24,7 +24,7 @@ text-align: center;
 
 h2 {
 font-family: 'Arvo', serif;
-font-size: 24px;
+font-size: 18px;
 font-weight: bold;
 margin-bottom: 45px;
 color: salmon;
@@ -35,14 +35,14 @@ h3 {
 font-size: 22px;
 font-weight: bold;
 font-family: 'Arvo',serif;
-color: salmon;
-text-align: center;
+color: darksalmon;
 }
 
 footer {
-font-weight: bold;
+margin-bottom: 60px;
+font-weight: normal;
 font-family: 'Arvo',serif;
-color: darksalmon;
+color: lightsalmon;
 text-align: center;
-
+padding-top: 300px;
 }
