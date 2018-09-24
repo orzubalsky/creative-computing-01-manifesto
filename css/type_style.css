@@ -1,27 +1,26 @@
 * {
 	box-sizing: border-box;
-	background-color: thistle;
+	background-color: white;
+	margin: auto;
 	font-family: "georgia";
 	text-align: center;
-	margin: auto;
 }
 
 body {
-	color: mediumpurple;
+	color: yellow;
 	
 }
 
 h1{
 	font-weight: lighter;
-	color: rebeccapurple;
+	color: indianred;
 }
 
 h2{
 	font-weight: lighter;
-	color: rebeccapurple;
+	color: indianred;
 }
 
 footer{
-
-	
+	color: lightcoral;
 }
