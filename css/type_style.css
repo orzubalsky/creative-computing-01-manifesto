@@ -3,29 +3,17 @@
 	font-family: "georgia";
 }
 
-.content{
-	text-align:center;
-}
-
-.footer{
-	text-align:center;
-}
-
 body{
-	color: lightcoral;
+	color: darkorchid;
 	margin:auto;
 }
 
 h1{
 	font-weight: normal;
-	color: indianred;
+	color: rebeccapurple;
 }
 
 h2{
 	font-weight: normal;
-	color: indianred;
-}
-
-footer{
-
+	color: rebeccapurple;
 }
