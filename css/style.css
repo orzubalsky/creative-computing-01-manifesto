@@ -7,26 +7,30 @@ body {
 	line-height: 38px;
 	font-family: 'Notable', sans-serif;
 	font-size: 28px;
-	font-weight: bold;
+	font-weight: normal;
 	color: #9BB291;
 	text-transform: none;
 	background-color: #EFF8E2
 }
 
-p.manifesto {
-	font-family: 'Montserrat', sans-serif;
-}
-
-p.second {
-	font-family: 'Montserrat', sans-serif;
-}
-
-h3,
 h2 {
 	color: #FFC1CF;
 }
-
+h3 {
+	color: #B3D89C;
+}
+p.manifesto {
+	font-family: 'Montserrat', sans-serif;
+}
+p.second {
+	font-family: 'Montserrat', sans-serif;
+}
+#strong {
+	color: orange
+	font-weight:bolder;
+}
 footer {
-	color: #B3D89C
+	color: #9BB291;
 	font-size: 20px;
+	line-height: 24px;
 }
