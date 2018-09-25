@@ -1,4 +1,49 @@
-* {
-    box-sizing: border-box;
+body {
+	max-width: 1000px;
+	text-align: left;
 }
 
+h1 {
+	font-family: 'Cinzel', serif;
+	font-kerning: auto;
+	font-size: 50pt;
+	font-weight: 400;
+	margin-bottom: none;
+}
+h2 {
+	font-family: 'Cinzel', serif;
+	font-weight: 400;
+	font-size: 30pt;
+}
+
+body p {
+	color: #6699cc;
+	font-family: 'Heebo', sans-serif;
+	font-size: 18pt;
+	font-weight: 100;
+	margin-left: 100px;
+	text-align: center;
+}
+
+a {
+	text-transform: uppercase;
+}
+
+
+footer {
+	font-family: 'Heebo', sans-serif;
+	font-size: 16pt;
+	font-weight: 100;
+	line-height: .5;
+	text-align: right;
+}
+
+.href {
+	color: #000033;	
+}
+
+footer p {
+	font-size: 14pt;
+	text-align: right;
+	margin-right: 0;
+}
