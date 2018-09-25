@@ -4,6 +4,10 @@
 	font-family: "georgia";
 }
 
+.footer{
+	color: rebeccapurple;
+}
+
 body{
 	text-align: center;
 	font-size: 18px;
