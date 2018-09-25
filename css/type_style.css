@@ -4,14 +4,10 @@
 	font-family: "georgia";
 }
 
-.footer{
-	color: rebeccapurple;
-}
-
 body{
-	color: darkorchid;
-	font-size: 18px;
 	text-align: center;
+	font-size: 18px;
+	color: darkorchid;
 }
 
 h1{
