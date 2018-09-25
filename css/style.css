@@ -1,5 +1,6 @@
 body {
 	max-width: 1000px;
+	text-align: left;
 }
 
 h1 {
@@ -20,7 +21,7 @@ body p {
 	font-family: 'Heebo', sans-serif;
 	font-size: 18pt;
 	font-weight: 100;
-	margin-left: 300px;
+	margin-left: 150px;
 	text-align: center;
 }
 
@@ -44,4 +45,5 @@ footer {
 footer p {
 	font-size: 14pt;
 	text-align: right;
+	margin-right: 0;
 }
