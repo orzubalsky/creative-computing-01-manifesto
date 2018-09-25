@@ -10,23 +10,23 @@
 
 body{
 	text-align: center;
-	font-size: 18px;
+	font-size: 22px;
 	color: darkorchid;
 	width: 800px;
 	margin-left: 300px;
 }
 
 h1{
-	font-weight: normal;
 	text-align: center;
+	font-weight: normal;
 	font-size: 30px;
 	color: rebeccapurple;
 	margin-left: 300px;
 }
 
 h2{
-	font-weight: normal;
 	text-align: center;
+	font-weight: normal;
 	font-size: 24px;
 	color: rebeccapurple;
 	margin-left: 300px;
