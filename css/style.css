@@ -2,3 +2,49 @@
     box-sizing: border-box;
 }
 
+body {background: #FFC0CB; 
+}
+.title { 
+	font-size: 50px;
+	font-weight: bold;
+	font-family: 'Shadows Into Light', cursive;
+	color: white;
+	text-align: center;
+	margin-bottom: 225px;
+	margin-top: 150px;
+		
+}
+p {
+	padding-top: 40%;
+	padding-bottom: 40%;
+	padding-left:40%;
+
+	text-align: center;
+
+}
+
+
+.intro {
+	font-size: 20px;
+	color: white;
+	font-family: helvetica;
+	text-align: center;
+
+}
+
+.mine {color: white;
+font-family: 'Quicksand', sans-serif;
+font-size: 30px;
+max-width: 30ch;}
+
+.modern {color: white;
+	font-family: helvetica;
+	font-size: 30px;
+	max-width: 30ch;
+
+}
+
+.display { font-family: 'Quicksand', sans-serif;
+	font-size: 30px;
+	max-width: 30ch; 
+	color: white;}
