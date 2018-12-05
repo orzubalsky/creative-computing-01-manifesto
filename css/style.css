@@ -17,6 +17,12 @@ body {
 	font-family:"Lora", serif;;
 }
 
+a{
+	text-decoration: none;
+	color: pink;
+
+}
+
 .img{
 	align-content: center;
 	border-image-outset: 40px;
@@ -37,5 +43,10 @@ h2{
 	color:#E57348;
 	font-family:"Roboto", sans-serif;;
 
+}
+
+.a{
+	text-decoration: none;
+	color: pink;
 }
 
