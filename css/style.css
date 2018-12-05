@@ -12,6 +12,10 @@ body {
 	font-family:"Lora", serif;;
 }
 
+.img{
+	align-content: center;
+	border-image-outset: 40px;
+}
 h1{
 	text-transform:uppercase;
 	font-family:"Roboto", sans-serif;;
@@ -29,3 +33,4 @@ h2{
 	font-family:"Roboto", sans-serif;;
 
 }
+
