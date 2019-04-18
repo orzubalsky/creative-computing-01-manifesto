@@ -1,1 +1,1 @@
-# Creative Computing Project 01: Manifesto
+# Core Studio Interaction: Digital Reissue
